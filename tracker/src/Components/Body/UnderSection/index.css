@@ -1,0 +1,6 @@
+.under-section {
+    height: 68px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}

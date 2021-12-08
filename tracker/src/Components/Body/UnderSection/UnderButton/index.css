@@ -1,0 +1,19 @@
+.under-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    background: #0E9F3F;
+    font-size: 18px;
+    width: 200px;
+    height: 40px;
+    margin-right: 32px;
+    transition: 0.4s ease;
+}
+
+.under-button:hover {
+    background: #F08E33;
+    border-radius: 10px;
+    transition: 0.4s ease;
+    cursor: pointer;
+}
